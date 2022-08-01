@@ -1,0 +1,1 @@
+Create a component where there will be a search bar, In that search bar, we can search any account name, If there is an account in that name, the contacts related to that account will be shown in a data table.
